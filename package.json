@@ -7,9 +7,12 @@
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest",
+    "start-json-server": "json-server --watch db.json --port 3000"
   },
   "dependencies": {
+    "axios": "^1.7.5",
+    "json-server": "^1.0.0-beta.2",
     "react": "18.3.1",
     "react-native": "0.75.2"
   },

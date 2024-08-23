@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "343434",
+      "name": "Biscoito",
+      "weight": "100 kg",
+      "description": "Biscoito 100 g",
+      "quantidade": 4
+    },
+    {
+      "id": "3433434434",
+      "name": "Arroz",
+      "weight": "200 kg",
+      "description": "Arroz 200 g",
+      "quantidade": 0
+    },
+    {
+      "id": "34343fsfa4",
+      "name": "Feijao",
+      "weight": "100 kg",
+      "description": "Fejao 300 g",
+      "quantidade": 0
+    },
+    {
+      "id": "34343545454",
+      "name": "Salada",
+      "weight": "100 kg",
+      "description": "Salada 100 g",
+      "quantidade": 0
+    },
+    {
+      "id": "3434323254323324",
+      "name": "Arroz pedro",
+      "weight": "100 kg",
+      "description": "Arroz pedro 100 g",
+      "quantidade": 3
+    },
+    {
+      "id": "34347af4rer67634",
+      "name": "Salmao",
+      "weight": "100 kg",
+      "description": "Salmao 100 g",
+      "quantidade": 0
+    },
+    {
+      "id": "343435434sdfsdsd45454",
+      "name": "Biscoito",
+      "weight": "100 kg",
+      "description": "Biscoito 100 g",
+      "quantidade": 2
+    },
+    {
+      "id": "343432gfgfg32324",
+      "name": "Arroz pedro",
+      "weight": "100 kg",
+      "description": "Arroz pedro 100 g",
+      "quantidade": 0
+    },
+    {
+      "id": "34347gfgfg234267634",
+      "name": "Salmao",
+      "weight": "100 kg",
+      "description": "Salmao 100 g",
+      "quantidade": 4
+    },
+    {
+      "id": "34343fdfdf545454",
+      "name": "Biscoito",
+      "weight": "100 kg",
+      "description": "Biscoito 100 g",
+      "quantidade": 0
+    }
+  ]
+}
